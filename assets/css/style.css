@@ -1,0 +1,112 @@
+h1.left {
+	float:left;
+
+}
+
+a.N {
+	
+	color: #4aaaa5;
+	font: 20px arial, sans-serif;
+	text-decoration: none
+}
+
+hr.A { 
+
+    clear: both;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    width: 100%;
+    border-width: 1px;
+    border-color: #4aaaa5;
+   
+}
+
+hr.B {
+	margin-bottom: 2em;
+	width: 90%;
+	border-width: 1px;
+    border-color: #4aaaa5
+
+}
+
+h1 {
+	
+	background-color: #4aaaa5;
+    border: 1px;
+    margin-left: 8%;
+    padding: 21px;
+
+   
+}
+
+p.A {
+	font: 20px arial, sans-serif ;
+	color: #4aaaa5;
+}
+
+p.right {
+	float:right;
+}
+
+#navi {
+	border: 1px;
+    margin-right: 25%;
+    padding: 21px;
+    padding-top: 28px;
+
+
+}
+
+
+#bckg {
+	background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/seigaiha.png");
+}
+
+
+div.container {
+	border: 1px solid #000000;
+	overflow: hidden;
+	width: 100%;
+
+}
+
+div.header {
+	border: 1px ;
+	padding-bottom: 100px;
+	background-color: white ;
+}
+
+div.left {
+	clear: both;
+	border: 1px solid #4aaaa5;
+	width: 45%;
+	margin-left:8%;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	float: left;
+	padding: 30px;
+	background-color: white ;
+}
+
+div.right {
+	
+	border: 1px solid #4aaaa5;
+	width: 15%;
+	height: 300px;
+	margin-right: 25%; 
+	margin-top: 50px;
+	float: right;
+	padding: 10px;
+	background-color: white ;
+}
+
+div.footer {
+	clear: both;
+	text-align: center;
+	border: 1px solid #000000;
+	border-top-color: #4aaaa5 ;
+	border-top-width: 10px;
+	padding: 30px;
+	background-color: #666666 ;
+
+}
